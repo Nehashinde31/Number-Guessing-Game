@@ -8,6 +8,9 @@ A console-based smart number guessing game developed in Java.
 - Logic puzzles for hints
 - Scoring system
 - High score persistence
+## 🎮 Sample Gameplay (Console Output)
+
+![Console Screenshot](game.png)
 
 ## How to Run
 javac NumberGuessingGame.java  
